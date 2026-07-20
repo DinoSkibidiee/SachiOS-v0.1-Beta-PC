@@ -27,11 +27,11 @@ lb config \
     --debian-installer live \
     --iso-application "$NAME"
 
-echo "[+] Adding pkg..."
+echo "[+] Adding packages..."
 
 mkdir -p config/package-lists
 
-cp ../packages.txt config/package-lists/sachios.list.chroot
+cp pkg.txt config/package-lists/sachios.list.chroot
 
 echo "[+] Adding configs..."
 
