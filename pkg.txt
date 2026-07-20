@@ -1,0 +1,12 @@
+xfce4
+xfce4-goodies
+firefox
+git
+curl
+wget
+nano
+htop
+neofetch
+python3
+python3-pip
+build-essential
