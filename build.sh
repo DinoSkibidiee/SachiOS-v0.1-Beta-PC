@@ -31,7 +31,7 @@ echo "[+] Adding packages..."
 
 mkdir -p config/package-lists
 
-cp pkg.txt config/package-lists/sachios.list.chroot
+
 
 echo "[+] Adding configs..."
 
