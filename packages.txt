@@ -1,0 +1,12 @@
+xfce4
+xfce4-terminal
+firefox 
+git
+curl
+wget
+nano
+neofetch
+fastfetch
+htop
+python3
+python3-pip
